@@ -1,10 +1,10 @@
 export default function Footer() {
   return (
     <footer
-      className="bg-black text-center text-neutral-600 dark:bg-black dark:text-neutral-200 lg:text-left"
+      className="bg-black text-center text-neutral-200 lg:text-left"
       id="footer"
     >
-      <div className="flex items-center justify-center border-b-2 border-neutral-200 p-6 dark:border-neutral-500 lg:justify-between">
+      <div className="flex items-center justify-center border-b-2  p-6 border-neutral-500 lg:justify-between">
         <div className="mr-12 hidden lg:block">
           <span>Rejoignez-nous sur les réseaux sociaux :</span>
         </div>
@@ -90,7 +90,7 @@ export default function Footer() {
               </svg>
               Adresse
             </h6>
-            <p className="mb-4 text-neutral-600 dark:text-neutral-200">
+            <p className="mb-4 text-neutral-200">
               1 rue de la Barre
               <br /> 59800 Lille
             </p>
@@ -120,12 +120,9 @@ export default function Footer() {
         </div>
       </div>
 
-      <div className="bg-neutral-200 p-6 text-center dark:bg-neutral-700">
+      <div className=" p-6 text-center bg-neutral-700">
         <span>© 2023 Copyright: </span>
-        <a
-          className="font-semibold text-neutral-600 dark:text-neutral-400"
-          href="/"
-        >
+        <a className="font-semibold text-neutral-400" href="/">
           <spna className="text-yellow-500">African</spna>{" "}
           <span className="text-success-600">Children</span>
         </a>
