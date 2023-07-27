@@ -2,7 +2,7 @@ import CategoryCard from "../components/CategoryCard";
 import SectionTitle from "../components/SectionTitle";
 export default async function DrinksCategories() {
   const res = await fetch(
-    "https://african-children-4ynjyx8jd-asengimana.vercel.app/api/categories"
+    "https://african-children-bar.vercel.app/api/categories"
   );
   const categories = await res.json();
 
