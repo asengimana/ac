@@ -1,11 +1,7 @@
 import CategoryCard from "../components/CategoryCard";
 import SectionTitle from "../components/SectionTitle";
-export default async function DrinksCategories() {
-  const res = await fetch(
-    "https://african-children-bar.vercel.app/api/categories"
-  );
-  const categories = await res.json();
-
+import categories from "../data/categories.json";
+export default function DrinksCategories() {
   return (
     <div className="container my-24 mx-auto md:px-6">
       <section className="mb-32">
