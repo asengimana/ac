@@ -3,6 +3,7 @@ import "tw-elements/dist/css/tw-elements.min.css";
 import { Inter } from "next/font/google";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -11,11 +12,12 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  const bg = "header.jpg";
   return (
     <html lang="fr">
       <body className={inter.className}>
-        <main className="">
-          <Header />
+        <main>
+          <Header bg={bg} />
           {children}
           <Footer />
         </main>
