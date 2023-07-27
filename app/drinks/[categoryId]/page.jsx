@@ -2,14 +2,18 @@ import DrinksCard from "@/app/components/DrinksCard";
 import SectionTitle from "@/app/components/SectionTitle";
 
 export default async function CategoryDrinks({ params }) {
-  const res = await fetch("http://localhost:3000/api/drinks");
+  const res = await fetch(
+    "https://african-children-4ynjyx8jd-asengimana.vercel.app/api/drinks"
+  );
   const drinks = await res.json();
   const categoryId = params.categoryId;
 
   const drinksArray = drinks.filter((drink) => {
     return drink.category_id === categoryId;
   });
-  const catRes = await fetch("http://localhost:3000/api/categories");
+  const catRes = await fetch(
+    "https://african-children-4ynjyx8jd-asengimana.vercel.app/api/categories"
+  );
   const categories = await catRes.json();
   const categoriesArray = categories.filter((category) => {
     return category._id.$oid === categoryId;
