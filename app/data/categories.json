@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "6475cab2574931763d9104aa"
+  },
+  "name": "Softs",
+  "categoryImage": "softs.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475caf3574931763d9104ab"
+  },
+  "name": "Rhums Maison",
+  "categoryImage": "rhums-maison.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cb87574931763d9104ac"
+  },
+  "name": "Shooters",
+  "categoryImage": "shooters.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cba1574931763d9104ad"
+  },
+  "name": "Cocktails Sans Alcool",
+  "categoryImage": "cocktails-sans-alcool.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cbca574931763d9104ae"
+  },
+  "name": "Cocktails",
+  "categoryImage": "cocktails.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cbe1574931763d9104af"
+  },
+  "name": "Champagnes",
+  "categoryImage": "champagnes.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cbfb574931763d9104b0"
+  },
+  "name": "Apéritifs",
+  "categoryImage": "aperitifs.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cc5e574931763d9104b1"
+  },
+  "name": "Alcools",
+  "categoryImage": "alcools.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cc74574931763d9104b2"
+  },
+  "name": "Vins",
+  "categoryImage": "vins.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475cc91574931763d9104b3"
+  },
+  "name": "Bières Pressions",
+  "categoryImage": "bieres-pressions.jpg"
+},
+{
+  "_id": {
+    "$oid": "6475ccad574931763d9104b4"
+  },
+  "name": "Bières Bouteilles",
+  "categoryImage": "bieres-bouteilles.jpg"
+}]

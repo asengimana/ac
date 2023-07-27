@@ -1,0 +1,790 @@
+[{
+  "_id": {
+    "$oid": "64776cbd12f671b6cc85a187"
+  },
+  "name": "Red Bull Energy Drink 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776cf512f671b6cc85a18f"
+  },
+  "name": "Red Bull Tropical 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776d9312f671b6cc85a194"
+  },
+  "name": "Eau Vittel",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776e5412f671b6cc85a19b"
+  },
+  "name": "Fuzetea 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776e7a12f671b6cc85a19f"
+  },
+  "name": "Orangina 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776f4812f671b6cc85a1a5"
+  },
+  "name": "Coca Cola 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776f9912f671b6cc85a1a8"
+  },
+  "name": "Jus de Fruits 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776fb512f671b6cc85a1aa"
+  },
+  "name": "Schweppes Tonic 25cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776fd012f671b6cc85a1ac"
+  },
+  "name": "Coca Cola Light 33cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64776ff212f671b6cc85a1ae"
+  },
+  "name": "Coca Cola Zéro 33cl",
+  "ingredients": "",
+  "category_id": "6475cab2574931763d9104aa",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477731112f671b6cc85a1ce"
+  },
+  "name": "African Children",
+  "ingredients": "Rhum, abricot, mangue,... et secret !!!",
+  "category_id": "6475caf3574931763d9104ab",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477733312f671b6cc85a1d0"
+  },
+  "name": "Ti'Punch",
+  "ingredients": "",
+  "category_id": "6475caf3574931763d9104ab",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477735012f671b6cc85a1d2"
+  },
+  "name": "Rhum miel et canelle",
+  "ingredients": "",
+  "category_id": "6475caf3574931763d9104ab",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477739a12f671b6cc85a1d4"
+  },
+  "name": "Alomo (Bois bandé) (Petit)",
+  "ingredients": "",
+  "category_id": "6475cb87574931763d9104ac",
+  "price": "3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647773aa12f671b6cc85a1d6"
+  },
+  "name": "Alomo (Bois bandé) (Grand)",
+  "ingredients": "",
+  "category_id": "6475cb87574931763d9104ac",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647773db12f671b6cc85a1d8"
+  },
+  "name": "Shatta (Petit)",
+  "ingredients": "Rhum, mangue",
+  "category_id": "6475cb87574931763d9104ac",
+  "price": "3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647773f512f671b6cc85a1da"
+  },
+  "name": "Shatta (Grand)",
+  "ingredients": "Rhum, mangue",
+  "category_id": "6475cb87574931763d9104ac",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477740612f671b6cc85a1dc"
+  },
+  "name": "Concombre (Petit)",
+  "ingredients": "",
+  "category_id": "6475cb87574931763d9104ac",
+  "price": "3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477741712f671b6cc85a1de"
+  },
+  "name": "Concombre (Grand)",
+  "ingredients": "",
+  "category_id": "6475cb87574931763d9104ac",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477754f12f671b6cc85a1fe"
+  },
+  "name": "Akwaaba",
+  "ingredients": "Mangue, goyave, grenadine",
+  "category_id": "6475cba1574931763d9104ad",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647775ba12f671b6cc85a200"
+  },
+  "name": "Adowa",
+  "ingredients": "Pamplemousse, orange, ananas, citron vert",
+  "category_id": "6475cba1574931763d9104ad",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647775dd12f671b6cc85a202"
+  },
+  "name": "Bissap",
+  "ingredients": "Feuilles d'Hibiscus",
+  "category_id": "6475cba1574931763d9104ad",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477765612f671b6cc85a204"
+  },
+  "name": "Gingembre de Tonton Fait Maison",
+  "ingredients": "",
+  "category_id": "6475cba1574931763d9104ad",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647776b412f671b6cc85a206"
+  },
+  "name": "Virgin Gold Coast",
+  "ingredients": "Goyave, fraise, chantilly",
+  "category_id": "6475cba1574931763d9104ad",
+  "price": "5,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647776dd12f671b6cc85a208"
+  },
+  "name": "Virgin Mojito",
+  "ingredients": "Feuilles de menthe, sucre de canne, citron vert",
+  "category_id": "6475cba1574931763d9104ad",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477797b12f671b6cc85a2a5"
+  },
+  "name": "Mojito",
+  "ingredients": "Rhum, citron vert, menthe, soda",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647779ae12f671b6cc85a2a7"
+  },
+  "name": "Mojito Bull",
+  "ingredients": "Rhum, citron vert, menthe, Red Bull",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777a0312f671b6cc85a2b9"
+  },
+  "name": "Mojito Fraises",
+  "ingredients": "Rhum, citron vert, menthe, purée de fraises",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777a3f12f671b6cc85a2bb"
+  },
+  "name": "Mojito Mangues",
+  "ingredients": "Rhum, citron vert, menthe, purée de mangues",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777a6e12f671b6cc85a2bd"
+  },
+  "name": "Mojito Gingembre",
+  "ingredients": "Rhum, citron vert, menthe, gingembre",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "8",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777ae912f671b6cc85a2bf"
+  },
+  "name": "Caïpirinha",
+  "ingredients": "Cachaça, sucre de canne, citron vert",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777b3812f671b6cc85a2c1"
+  },
+  "name": "Caïpi Bull",
+  "ingredients": "Cachaça, sucre de canne, citron vert, Red Bull",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777b7f12f671b6cc85a2c3"
+  },
+  "name": "Rhum Bissap",
+  "ingredients": "Rhum, feuilles d'hibiscus",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777bb512f671b6cc85a2c5"
+  },
+  "name": "Rhum Gingembre",
+  "ingredients": "Rhum, gingembre, citron",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777bdc12f671b6cc85a2c7"
+  },
+  "name": "Planteur",
+  "ingredients": "Rhum, orange, ananas, goyave",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777bfe12f671b6cc85a2c9"
+  },
+  "name": "Punch Coco",
+  "ingredients": "Rhum, coco, sucre de canne",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777c3f12f671b6cc85a2cb"
+  },
+  "name": "Gold Coast",
+  "ingredients": "Rhum, goyave, chantilly, fruits",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777c7012f671b6cc85a2cd"
+  },
+  "name": "Accra",
+  "ingredients": "Cachaça, pamplemousse, ananas, soho",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777d0b12f671b6cc85a2cf"
+  },
+  "name": "Africa",
+  "ingredients": "Rhum, citron vert, kiwi, Pisang",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777d5a12f671b6cc85a2d1"
+  },
+  "name": "Ashanti",
+  "ingredients": "Rhum, vanille, orange, sucre de canne, Pulco, Curaçao",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777da912f671b6cc85a2d3"
+  },
+  "name": "Luther King",
+  "ingredients": "Banane, Pisang, Bailey's",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777dd712f671b6cc85a2d5"
+  },
+  "name": "Kumasi",
+  "ingredients": "Rhum, fraises, coco, ananas",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777e0212f671b6cc85a2d7"
+  },
+  "name": "Margarita",
+  "ingredients": "Tequila, citron, Cointreau, sucre de canne",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64777e6012f671b6cc85a2d9"
+  },
+  "name": "Unity Bol (pour plusieurs personnes)",
+  "ingredients": "Bol de Planteur (pour plusieurs personnes)",
+  "category_id": "6475cbca574931763d9104ae",
+  "price": "25",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647782e712f671b6cc85a317"
+  },
+  "name": "Coupe de Champagne",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647782fc12f671b6cc85a319"
+  },
+  "name": "Kir Royal",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477836a12f671b6cc85a323"
+  },
+  "name": "Champagne Fraises",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477838012f671b6cc85a325"
+  },
+  "name": "Champagne Griottes",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647783a412f671b6cc85a327"
+  },
+  "name": "Bouteille de Champagne",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "55",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647783c112f671b6cc85a329"
+  },
+  "name": "Moët & Chandon Brut",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "65",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647783d712f671b6cc85a32b"
+  },
+  "name": "Veuve Cliquot",
+  "ingredients": "",
+  "category_id": "6475cbe1574931763d9104af",
+  "price": "75",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647786b012f671b6cc85a32d"
+  },
+  "name": "Ricard 3cl",
+  "ingredients": "",
+  "category_id": "6475cbfb574931763d9104b0",
+  "price": "4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647786c512f671b6cc85a32f"
+  },
+  "name": "Kir 5cl",
+  "ingredients": "",
+  "category_id": "6475cbfb574931763d9104b0",
+  "price": "6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477873312f671b6cc85a331"
+  },
+  "name": "Martini Blanc 5cl",
+  "ingredients": "",
+  "category_id": "6475cbfb574931763d9104b0",
+  "price": "6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477874c12f671b6cc85a333"
+  },
+  "name": "Martini Rouge 5cl",
+  "ingredients": "",
+  "category_id": "6475cbfb574931763d9104b0",
+  "price": "6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477876112f671b6cc85a335"
+  },
+  "name": "Campari 5cl",
+  "ingredients": "",
+  "category_id": "6475cbfb574931763d9104b0",
+  "price": "6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647787a612f671b6cc85a337"
+  },
+  "name": "Vodka 5cl (Smirnoff ou Absolut)",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647787b612f671b6cc85a339"
+  },
+  "name": "Vodka 70cl (Smirnoff ou Absolut)",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "65",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647787da12f671b6cc85a33b"
+  },
+  "name": "Vodka Belvédère 5cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "9",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477880712f671b6cc85a33d"
+  },
+  "name": "Vodka Belvédère 70cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "80",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477881c12f671b6cc85a33f"
+  },
+  "name": "Henessy 70cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "70",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477887a12f671b6cc85a341"
+  },
+  "name": "Vodka Red Bull",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "10",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477889f12f671b6cc85a343"
+  },
+  "name": "Vodka Red Bull (Belvédère)",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "12",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647788c412f671b6cc85a345"
+  },
+  "name": "Tequila 5cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647788d412f671b6cc85a347"
+  },
+  "name": "Gin 5cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477893712f671b6cc85a349"
+  },
+  "name": "Vieux Rhum 5cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477894812f671b6cc85a34b"
+  },
+  "name": "Get 27 5cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6477895b12f671b6cc85a34d"
+  },
+  "name": "Bailey's 5cl",
+  "ingredients": "",
+  "category_id": "6475cc5e574931763d9104b1",
+  "price": "7",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778b9612f671b6cc85a35b"
+  },
+  "name": "Verre de vin (Rouge, Blanc, Rosé)",
+  "ingredients": "",
+  "category_id": "6475cc74574931763d9104b2",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778be312f671b6cc85a35d"
+  },
+  "name": "Bouteille de vin (Rouge, Blanc, Rosé)",
+  "ingredients": "",
+  "category_id": "6475cc74574931763d9104b2",
+  "price": "20",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778c1f12f671b6cc85a35f"
+  },
+  "name": "Bière African Children 25cl",
+  "ingredients": "",
+  "category_id": "6475cc91574931763d9104b3",
+  "price": "3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778c3712f671b6cc85a361"
+  },
+  "name": "Affligen 25cl",
+  "ingredients": "",
+  "category_id": "6475cc91574931763d9104b3",
+  "price": "4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778c5612f671b6cc85a363"
+  },
+  "name": "Bière Gingembre 25cl",
+  "ingredients": "",
+  "category_id": "6475cc91574931763d9104b3",
+  "price": "3,50",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778c7812f671b6cc85a365"
+  },
+  "name": "Picon Bière 25cl",
+  "ingredients": "",
+  "category_id": "6475cc91574931763d9104b3",
+  "price": "4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778c8712f671b6cc85a367"
+  },
+  "name": "Despérados 33cl",
+  "ingredients": "",
+  "category_id": "6475ccad574931763d9104b4",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778cd012f671b6cc85a369"
+  },
+  "name": "Duvel 33cl",
+  "ingredients": "",
+  "category_id": "6475ccad574931763d9104b4",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778cec12f671b6cc85a36b"
+  },
+  "name": "Chimay Bleue 33cl",
+  "ingredients": "",
+  "category_id": "6475ccad574931763d9104b4",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778cff12f671b6cc85a36d"
+  },
+  "name": "Leffe Blonde 33cl",
+  "ingredients": "",
+  "category_id": "6475ccad574931763d9104b4",
+  "price": "5",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64778d1112f671b6cc85a36f"
+  },
+  "name": "Guinness 33cl",
+  "ingredients": "",
+  "category_id": "6475ccad574931763d9104b4",
+  "price": "5",
+  "__v": 0
+}]
