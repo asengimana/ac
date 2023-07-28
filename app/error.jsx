@@ -1,5 +1,5 @@
 "use client";
-export default function NotFound() {
+export default function Error() {
   return (
     <main className="flex flex-col items-center justify-between p-20">
       <h1 className="section-title-error text-danger">

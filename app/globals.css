@@ -79,7 +79,12 @@ main {
     height: 32px;
   }
 }
-
+.section-title {
+  color: white;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
 .section-title-error {
   font-size: 25px;
   margin-top: 10px;
