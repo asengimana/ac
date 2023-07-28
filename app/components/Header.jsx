@@ -141,7 +141,7 @@ export default function Header({ bg }) {
             <div className="text-white">
               <Link href="/">
                 <h2 className="mb-4 text-4xl font-semibold uppercase">
-                  <span className="text-success-500  hover:text-danger-600">
+                  <span className="text-success-600  hover:text-danger-600">
                     African
                   </span>
                   <span className="text-yellow-500  hover:text-success-900">
@@ -152,7 +152,7 @@ export default function Header({ bg }) {
               </Link>
               <h4 className="mb-6 text-xl font-semibold">
                 <span className="text-yellow-500">Rhumerie</span>{" "}
-                <span className="text-success-500">-</span>{" "}
+                <span className="text-success-600">-</span>{" "}
                 <span className="text-red-500">Cocktails</span>
               </h4>
               <h5 className="mb-6 text-sm">

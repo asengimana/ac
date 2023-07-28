@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer
-      className="bg-black text-center text-neutral-200 lg:text-left"
+      className="bg-black text-center text-white lg:text-left"
       id="footer"
     >
       <div className="flex items-center justify-center border-b-2  p-6 border-neutral-500 lg:justify-between">

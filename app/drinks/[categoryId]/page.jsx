@@ -15,7 +15,7 @@ export default function CategoryDrinks({ params }) {
   return (
     <div className="container my-20 mx-auto md:px-6">
       <section className="mb-32" id="drinks">
-        <SectionTitle title={categoriesArray[0].name} />
+        <SectionTitle title={categoriesArray[0]?.name} />
         <ul className="">
           {drinksArray.map((drink) => (
             <DrinksCard drink={drink} key={drink._id.$oid} />
