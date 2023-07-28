@@ -13,7 +13,7 @@ export default function Header({ bg }) {
     <header>
       {/* Navbar */}
       <nav
-        className="sticky top-0 z-10 flex w-full items-center  bg-white py-2 text-neutral-600 shadow-lg focus:text-neutral-700 dark:bg-primary-100 dark:text-neutral-200 md:flex-wrap justify-center uppercase"
+        className="sticky top-0 z-10 flex w-full items-center  bg-white py-2 text-black shadow-lg focus:text-neutral-700 dark:bg-black dark:text-white md:flex-wrap justify-center uppercase"
         data-te-navbar-ref
       >
         <div className="px-6">
@@ -58,7 +58,7 @@ export default function Header({ bg }) {
             >
               <li data-te-nav-item-ref>
                 <Link
-                  className="block transition duration-150 ease-in-out md:p-2 text-success-900 hover:text-success-600"
+                  className="block transition duration-150 ease-in-out md:p-2 hover:text-success-900"
                   href="/"
                   data-te-nav-link-ref
                   data-te-ripple-init
@@ -69,7 +69,7 @@ export default function Header({ bg }) {
               </li>
               <li data-te-nav-item-ref>
                 <Link
-                  className="block transition duration-150 ease-in-out md:p-2 text-warning-900 hover:text-warning-600"
+                  className="block transition duration-150 ease-in-out md:p-2 hover:text-warning-900"
                   href="/drinks"
                   data-te-nav-link-ref
                   data-te-ripple-init
@@ -80,7 +80,7 @@ export default function Header({ bg }) {
               </li>
               <li data-te-nav-item-ref>
                 <Link
-                  className="block transition duration-150 ease-in-out text-danger-900 hover:text-danger-600 md:p-2"
+                  className="block transition duration-150 ease-in-out hover:text-danger-900 md:p-2"
                   href="#footer"
                   data-te-nav-link-ref
                   data-te-ripple-init

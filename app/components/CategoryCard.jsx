@@ -14,7 +14,10 @@ export default function CategoryCard({ category }) {
         className="w-full align-middle transition duration-300 ease-linear"
         alt={category.name}
       />
-      <Link href={`/drinks/${category._id.$oid}`} key={category._id.$oid}>
+      <Link
+        href={`/drinks/${category._id.$oid}#drinks`}
+        key={category._id.$oid}
+      >
         <div className="absolute top-0 right-0 bottom-0 left-0 h-full w-full overflow-hidden bg-[hsla(0,0%,0%,0.4)] bg-fixed">
           <div className="flex h-full items-end justify-start">
             <div className="m-6 text-white">
