@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url("./font.css");
+
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -78,6 +80,9 @@ main {
     top: 24px;
     height: 32px;
   }
+}
+.brand-name {
+  font-family: "GlobalW00BoldStencil";
 }
 .section-title {
   color: white;

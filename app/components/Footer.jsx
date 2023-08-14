@@ -123,7 +123,7 @@ export default function Footer() {
       <div className=" p-6 text-center bg-neutral-700">
         <span>© 2023 Copyright: </span>
         <a className="font-semibold text-neutral-400" href="/">
-          <spna className="text-yellow-500">African</spna>{" "}
+          <spna className="text-danger-600">African</spna>{" "}
           <span className="text-success-600">Children</span>
         </a>
       </div>

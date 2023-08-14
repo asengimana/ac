@@ -140,43 +140,38 @@ export default function Header({ bg }) {
           <div className="flex h-full items-center justify-center">
             <div className="text-white">
               <Link href="/">
-                <h2 className="mb-4 text-4xl font-semibold uppercase">
-                  <span className="text-success-600  hover:text-danger-600">
-                    African
-                  </span>
-                  <span className="text-yellow-500  hover:text-success-900">
-                    {" "}
-                    Children
-                  </span>
+                <h2 className="mb-4 text-4xl uppercase brand-name drop-shadow-2xl">
+                  <span className="text-danger-600">African</span>
+                  <span className="text-success-700"> Children</span>
                 </h2>
               </Link>
-              <h4 className="mb-6 text-xl font-semibold">
-                <span className="text-yellow-500">Rhumerie</span>{" "}
-                <span className="text-success-600">-</span>{" "}
-                <span className="text-red-500">Cocktails</span>
+              <h4 className="mb-6 text-xl font-semibold uppercase drop-shadow-2xl">
+                <span className="text-danger-600">Rhumerie</span>{" "}
+                <span className="text-yellow-500">-</span>{" "}
+                <span className="text-success-700">Cocktails</span>
               </h4>
-              <h5 className="mb-6 text-sm">
+              <h5 className="mb-6 text-sm drop-shadow-2xl">
                 Plongez au cœur de l’Afrique et dégustez nos cocktails maison
                 sur des rythmes Afrobeat, Reggae, ...
               </h5>
-              <Link href="/drinks">
+              <Link href="/">
                 <button
                   type="button"
                   className="rounded border-2 border-danger-600 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-warning-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
                   data-te-ripple-init
                   data-te-ripple-color="light"
                 >
-                  La carte
+                  Accueil
                 </button>
               </Link>{" "}
-              <Link href="/">
+              <Link href="/drinks">
                 <button
                   type="button"
-                  className="rounded border-2 border-warning px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-danger-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
+                  className="rounded border-2 border-success-700 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-danger-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
                   data-te-ripple-init
                   data-te-ripple-color="light"
                 >
-                  Accueil
+                  La Carte
                 </button>
               </Link>
             </div>

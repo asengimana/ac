@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "GlobalW00BoldStencil";
+  src: local("GlobalW00BoldStencil"),
+    url("./fonts/Global-W00-Bold-Stencil.woff") format("woff"),
+    url("./fonts/Global-W00-Bold-Stencil.woff2") format("woff2");
+}
