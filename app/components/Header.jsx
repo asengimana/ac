@@ -150,14 +150,14 @@ export default function Header({ bg }) {
                 <span className="text-yellow-500">-</span>{" "}
                 <span className="text-success-700">Cocktails</span>
               </h4>
-              <h5 className="mb-6 text-sm drop-shadow-2xl">
+              <h5 className="mb-6 text-sm drop-shadow-2xl font-bold">
                 Plongez au cœur de l’Afrique et dégustez nos cocktails maison
-                sur des rythmes Afrobeat, Reggae, ...
+                sur des rythmes Afrobeat, Reggae...
               </h5>
               <Link href="/">
                 <button
                   type="button"
-                  className="rounded border-2 border-danger-600 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-warning-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
+                  className="rounded border-2 bg-danger-600 border-danger-600 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-warning-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
                   data-te-ripple-init
                   data-te-ripple-color="light"
                 >
@@ -167,7 +167,7 @@ export default function Header({ bg }) {
               <Link href="/drinks">
                 <button
                   type="button"
-                  className="rounded border-2 border-success-700 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-danger-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
+                  className="rounded border-2 bg-success-700 border-success-700 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-danger-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
                   data-te-ripple-init
                   data-te-ripple-color="light"
                 >
