@@ -157,7 +157,7 @@ export default function Header({ bg }) {
               <Link href="/">
                 <button
                   type="button"
-                  className="rounded border-2 bg-danger-600 border-danger-600 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-warning-600 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
+                  className="rounded border-2 bg-danger-600 border-danger-600 px-7 pb-[8px] pt-[10px] text-sm font-medium uppercase leading-normal text-neutral-50 transition duration-150 ease-in-out hover:border-success-700 hover:bg-neutral-500 hover:bg-opacity-10 hover:text-success-600"
                   data-te-ripple-init
                   data-te-ripple-color="light"
                 >
