@@ -16,7 +16,7 @@ export default function Header({ bg }) {
         className="sticky top-0 z-10 flex w-full items-center  bg-white py-2 text-black shadow-lg focus:text-neutral-700 dark:bg-black dark:text-white md:flex-wrap justify-center uppercase"
         data-te-navbar-ref
       >
-        <div className="px-6">
+        <div className="px-0">
           {/* Hamburger menu button */}
           <button
             className="border-0 bg-transparent px-2 py-3 text-xl leading-none transition-shadow duration-150 ease-in-out hover:text-neutral-700 focus:text-neutral-700 dark:hover:text-white dark:focus:text-white md:hidden"
