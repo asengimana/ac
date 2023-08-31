@@ -1,6 +1,6 @@
 export default function SectionTitle({ title }) {
   return (
-    <h2 className="mb-12 text-center md:text-xl text-lg font-bold text-white flex items-center justify-center uppercase drop-shadow-lg">
+    <h2 className="mb-5 mt-2 text-center md:text-xl text-lg font-bold text-white flex items-center justify-center uppercase drop-shadow-lg">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 512 512"

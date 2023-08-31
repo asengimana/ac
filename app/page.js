@@ -4,7 +4,7 @@ import SectionTitle from "./components/SectionTitle";
 import Link from "next/link";
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-between p-1">
+    <main className="flex flex-col items-center justify-between p-1 pb-4 pt-2">
       <SectionTitle title={"Bienvenue !"} />
       <Link href={"/drinks"} className="mb-4">
         <button

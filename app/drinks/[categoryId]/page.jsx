@@ -13,7 +13,7 @@ export default function CategoryDrinks({ params }) {
     return category._id.$oid === categoryId;
   });
   return (
-    <div className="container my-20 mx-auto md:px-2 p-1">
+    <div className="md:container my-5 mx-auto md:px-2 p-1">
       <section className="mb-32" id="drinks">
         <SectionTitle title={categoriesArray[0].name} />
         <ul className="">
