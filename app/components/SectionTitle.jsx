@@ -63,7 +63,7 @@ export default function SectionTitle({ title }) {
       <svg
         xmlns="http://www.w3.org/2000/svg"
         viewBox="0 0 512 512"
-        className="ml-3 h-7 w-7 text-yellow-500"
+        className="ml-3 h-7 w-7 text-danger-700"
         fill="currentColor"
       >
         <g>
